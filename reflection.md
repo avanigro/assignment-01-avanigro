@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  Ava Nigro
+Sudent Email:  aknigro@syr.edu
 
 ## Instructions
 
@@ -22,4 +22,4 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Reflection Below This Line ---`
-
+During this assignment I was able to learn more about the fundamentals of python. I was able to learn how to fix my mistakes and learn the best ways to solve them to continue the assignment. I was able to lean how to run the code and find where there is an error in the code. I also learned the best way to look at the errors in the code and how to debug them. This lab helped me feel more comfortable with the program and debugging.
